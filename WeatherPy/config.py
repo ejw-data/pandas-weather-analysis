@@ -1,0 +1,1 @@
+weather_key="6790242fc1ebde25e3808f042c39e621"
