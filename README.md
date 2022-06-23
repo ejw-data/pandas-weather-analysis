@@ -18,6 +18,7 @@ Analysis of humidity, temperature, cloudiness, and precipation data from over 10
 *  Python
 *  Pandas
 *  Matplotlib
+*  Requests
 
 <br>
 
